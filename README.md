@@ -1,4 +1,4 @@
 freezing-ironman
 ================
 
-This project was created to make one comfortable in using the distributed version control system and get familiar with advanced git usage.
+This project was created to get familiar with advanced git usage and to play with git to make one comfortable in using the distributed version control system
